@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyBookCatalog</string>
+    <string name="description_label">Description</string>
+    <string name="author_prefix">Author: %s</string>
+    <string name="genre_prefix">Genre: %s</string>
+    <string name="placeholder_title">Book Title</string>
+    <string name="placeholder_author">Author Name</string>
+</resources>
